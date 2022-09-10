@@ -1,4 +1,4 @@
-# Clonando-Netflix
+# Replicando-Netflix
 
 Replicando o site da netflix usando apenas HTML/CSS para fins de estudo e de prática.
 
